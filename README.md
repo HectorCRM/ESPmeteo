@@ -1,3 +1,4 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
 # ¡ESPmeteo! :satellite:
 Proyecto de estación meteorologica para monitorear el clima y enviar notificaciones via CallMeBot.
 El codigo graba en un archivo .csv en tarjeta microSD los siguientes valores: temperatura, humedad, luminosidad y calcula el punto de rocio.
